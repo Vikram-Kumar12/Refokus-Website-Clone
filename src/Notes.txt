@@ -1,0 +1,7 @@
+Animation :->
+for smotthness -> locomotive js -> beta version
+> animation karna hai work component par :->
+  > jese jese scroll hoga mera image ak ak karke show hoga 
+  > use liye (useScroll farmer motion) ka use karenge
+> ab pari hai product ki :->
+> jab bhi apko parent component par kuchh event perform karna ho , child componet ke change hone ke waja se tab apko paret componet ke and (methods/function) banana hai then props ke help se usko child componet me bhe dena hai phir child componet me usko chala aa call kar dena hai.
